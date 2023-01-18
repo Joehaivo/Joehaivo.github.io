@@ -1,11 +1,11 @@
 {
-    "name": "icon_font_viewer_flutter",
-    "short_name": "icon_font_viewer_flutter",
+    "name": "ttf_viewer",
+    "short_name": "ttf_viewer",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A GUI application to view ttf file that includes icons (icon font).",
+    "description": "A Flutter project to show trueType font file (.ttf) content which include icons.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
