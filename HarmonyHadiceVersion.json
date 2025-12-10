@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "releaseDate": "2025-12-10",
   "downloadUrl": "https://huolala.feishu.cn/wiki/We5pwcpP0ivQAck51esclHOtnSf",
   "releaseNotes": "修复了一些已知问题，提升了稳定性\n- 修复了设备连接问题\n- 优化了性能监控功能\n- 改进了用户体验"
