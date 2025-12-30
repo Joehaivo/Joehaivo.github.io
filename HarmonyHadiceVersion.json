@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "releaseDate": "2025-12-10",
+  "version": "1.1.0",
+  "releaseDate": "2025-12-30",
   "downloadUrl": "https://huolala.feishu.cn/wiki/We5pwcpP0ivQAck51esclHOtnSf",
-  "releaseNotes": "修复了一些已知问题，提升了稳定性\n- 修复了设备连接问题\n- 优化了性能监控功能\n- 改进了用户体验"
+  "releaseNotes": "重构网络抓包的架构, 优化使用体验\n修复了一段时间不操作就抓包断开的问题\n修复了手机端重连后无法继续抓包的问题\n\n加入mock功能, 可以自定义响应的内容"
 }
 
