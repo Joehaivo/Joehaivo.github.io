@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "releaseDate": "2025-12-30",
+  "version": "1.1.1",
+  "releaseDate": "2026-1-22",
   "downloadUrl": "https://huolala.feishu.cn/wiki/We5pwcpP0ivQAck51esclHOtnSf",
-  "releaseNotes": "1.重构网络抓包的架构, 优化使用体验\n2.修复了一段时间不操作就抓包断开的问题\n3.修复了手机端重连后抓包会断开的问题\n4.加入网络响应mock功能, 可以修改HTTP响应返回的内容\n\n*注意: APP端Sophon需要升级: @hll/Sophon: 0.6.0-SNAPSHOT.2"
+  "releaseNotes": "1.应用安装-支持鼠标直接拖放文件到窗口内进行解析、新支持zip压缩包和tar.gz压缩包直接安装\n2.投屏截屏-优化鼠标点击和滑动，可直接鼠标控制手机\n3.文件传输-记录历史文件路径\n4.系统日志-优化过滤条件和展示\n"
 }
 
