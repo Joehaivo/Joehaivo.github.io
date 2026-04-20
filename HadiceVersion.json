@@ -1,0 +1,7 @@
+{
+  "version": "2.0.0",
+  "releaseDate": "2026-4-17",
+  "downloadUrl": "https://huolala.feishu.cn/wiki/We5pwcpP0ivQAck51esclHOtnSf",
+  "releaseNotes": "重大变更：Hadice 从鸿蒙专属工具升级为同时支持鸿蒙和安卓的开发调试工具。 \n安卓设备支持: 支持投屏、录屏、应用管理、日志等功能\n安卓抓包: 全新安卓网络抓包，支持 gzip 解码、图片预览、搜索\n
+日志回放(仅鸿蒙): 可视化回放用户的UI操作和网络请求 - Beta\n 本次升级改变了包名，安装后是另一个新的应用，需要重新执行sudo xattr -dr com.apple.quarantine /Applications/Hadice.app命令\n"
+}
