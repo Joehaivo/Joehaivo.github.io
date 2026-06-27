@@ -1,6 +1,6 @@
 {
-    "version": "2.1.1",
-    "releaseDate": "2026-4-29",
+    "version": "2.2.0",
+    "releaseDate": "2026-06-27",
     "downloadUrl": "https://huolala.feishu.cn/wiki/We5pwcpP0ivQAck51esclHOtnSf",
-    "releaseNotes": "\n性能监控: 全新实时性能监控面板，支持系统级和进程级数据采集与可视化，并支持数据导出\nHiProfiler 抓包模式: 鸿蒙抓包新增 HiProfiler 抓包模式，系统级方案，无需Sophon无侵入\nAI 自动化: AI 自动化操作支持安卓设备\n"
+    "releaseNotes": "\n安卓抓包和Mock: 优化抓包体验提升成功率和性能；新增Mock支持，支持从请求列表右键一键生成Mock规则。新增导出网络请求，支持CSV、JSON、HAR 格式。\n系统日志性能优化: 重构日志处理链路，新增日志终端/列表视图切换，支持排序、多选、复制字段、右键菜单和按 Tag 降噪规则。\n"
 }
